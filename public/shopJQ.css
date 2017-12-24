@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    background: -webkit-linear-gradient(55deg, skyblue, whitesmoke, transparent);
+    background: -moz-linear-gradient(55deg, skyblue, whitesmoke, transparent);
+    background: -o-linear-gradient(55deg, skyblue, whitesmoke, transparent);
+    background: linear-gradient(145deg, skyblue, whitesmoke, transparent);
+}
+div{
+    text-indent: 10px;
+}
+header{
+    height: 350px;
+    padding: 30px;
+    background-image: url('https://uiut.boltai.com/wp-content/uploads/sites/3/2015/12/118.jpg');
+    background-repeat: no-repeat;
+	background-size: 100%;
+    position: relative;
+    box-shadow: 5px 5px 5px 0px gray;
+}
+.red{
+    color: red;
+    cursor: pointer;
+}
+.bd{
+    margin: 50px auto;
+}
+h2{
+    font-size: 2.5em;
+    -webkit-text-stroke: 1px darkgrey;
+    -webkit-text-fill-color: white;
+}
+.menu{
+    z-index: 222;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 50px;
+    width: 100%;
+   
+}
+.logo{
+    padding: 0px;
+    font-size: 40px;
+    height: 80px;
+}
+.ft{
+    margin: 0px;
+    padding-top: 10px;
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+}
+.nn{
+    height: 610px;
+    color:  grey;
+    background-color: #e6f3ff;
+    padding: 5px 5px;
+    margin: 10px 1px;
+}
+img:hover{
+    filter: saturate(200%);
+}
+.im{
+    height: 55%;
+}
+.hed{
+    color: darkgray;
+    text-shadow: 2px 2px gray;
+    margin: 60px 60px;
+    padding: 60px 60px;
+}
+button{
+    border: none;
+    border-bottom: 2px solid #FFD700;
+    background-color: white;
+    cursor:pointer;
+}
+button:active, 
+button:focus {
+    outline: none;
+}
+.hd{
+    margin: 10px 60px;
+    height: 80px;
+    width: 100%;
+    color: darkgoldenrod;
+}
+.cb{
+    background-color: rgba(92,122,92,0.6);
+    color: whitesmoke;
+    position: absolute;
+    width: 40%;
+    height: 90%;
+    top: 5px;
+    right: 10px;
+    overflow-y: scroll;
+}

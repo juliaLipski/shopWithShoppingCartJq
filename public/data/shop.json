@@ -1,0 +1,30 @@
+[{
+    "src": "http://www.bohemia.kz/upload/images/f34faf96-b586-11e1-8527-00248c6ff6e6-1.jpeg",
+    "name": "Chandelier",
+    "price": 800
+},
+{
+    "src": "http://korolevskiy-potolok.ru/uploads/images/ljustra_dlja_natjazhnogo_potolka.jpg",
+    "name": "Sconce",
+    "price": 780
+},
+{
+    "src": "http://womanadvice.ru/sites/default/files/aleksandra/torshery_napolnye_so_stolikom_2.jpg",
+    "name": "Table lamp",
+    "price": 980
+},
+{
+    "src": "http://radioritas.com/wp-content/uploads/2017/02/amazing-classic-and-traditional-table-lamps-touch-of-class-reen-lamp-contemporary.jpg",
+    "name": "lamp",
+    "price": 830
+},
+{
+    "src": "http://homemydesign.com/wp-content/uploads/2017/04/deer-lamp-wall-for-kids-room.jpg",
+    "name": "Night lamp",
+    "price": 580
+},
+{
+    "src": "https://cs1.livemaster.ru/storage/ca/f2/5332372d22116b64ae30834a911t--dlya-doma-interera-torsher-sovy.jpg",
+    "name": "Children Lamp",
+    "price": 345
+}]
